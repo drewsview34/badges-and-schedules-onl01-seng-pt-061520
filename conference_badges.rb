@@ -21,3 +21,5 @@ end
 # end 
 
 def assign rooms(speakers)
+  
+end 
