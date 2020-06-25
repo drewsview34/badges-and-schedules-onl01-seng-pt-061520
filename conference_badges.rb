@@ -19,3 +19,5 @@ end
 #   end
 #   room_assigned_to_speaker
 # end 
+
+de
