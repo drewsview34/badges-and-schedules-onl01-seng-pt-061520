@@ -21,5 +21,6 @@ end
 # end 
 
 def assign rooms(speakers)
-  
+  room_assigned_to_speaker = []
+  speakers.each 
 end 
