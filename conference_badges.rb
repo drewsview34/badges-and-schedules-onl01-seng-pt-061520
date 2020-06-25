@@ -22,5 +22,5 @@ end
 
 def assign rooms(speakers)
   room_assigned_to_speaker = []
-  speakers.each 
+  speakers.each {|speaker, room| room_assigned_to_speaker << }
 end 
